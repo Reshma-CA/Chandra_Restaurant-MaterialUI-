@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Chandra_Restaurant-MaterialUI/static/css/main.afe2317b.css",
+    "main.js": "/Chandra_Restaurant-MaterialUI/static/js/main.c0639afb.js",
+    "static/js/592.3317abd4.chunk.js": "/Chandra_Restaurant-MaterialUI/static/js/592.3317abd4.chunk.js",
+    "static/media/welcome.png": "/Chandra_Restaurant-MaterialUI/static/media/welcome.723e52d36732126fa795.png",
+    "static/media/ambience.jpg": "/Chandra_Restaurant-MaterialUI/static/media/ambience.8b318e0aa2b30e0a977d.jpg",
+    "static/media/Food1.jpg": "/Chandra_Restaurant-MaterialUI/static/media/Food1.f3072f11102878ef9b75.jpg",
+    "static/media/Food2.jpg": "/Chandra_Restaurant-MaterialUI/static/media/Food2.5e76d1030d726ab5f598.jpg",
+    "static/media/Food3.jpeg": "/Chandra_Restaurant-MaterialUI/static/media/Food3.5f4451ca789183e8050c.jpeg",
+    "static/media/logos.png": "/Chandra_Restaurant-MaterialUI/static/media/logos.1316ef50d84b10ee5041.png",
+    "static/media/DeliveryImg.png": "/Chandra_Restaurant-MaterialUI/static/media/DeliveryImg.0fbebbdbfc53d67bdd8f.png",
+    "index.html": "/Chandra_Restaurant-MaterialUI/index.html",
+    "main.afe2317b.css.map": "/Chandra_Restaurant-MaterialUI/static/css/main.afe2317b.css.map",
+    "main.c0639afb.js.map": "/Chandra_Restaurant-MaterialUI/static/js/main.c0639afb.js.map",
+    "592.3317abd4.chunk.js.map": "/Chandra_Restaurant-MaterialUI/static/js/592.3317abd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afe2317b.css",
+    "static/js/main.c0639afb.js"
+  ]
+}
