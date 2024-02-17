@@ -2,6 +2,7 @@
   "name": "materialapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://Reshma-CA.github.io/Chandra_Restaurant-MaterialUI-",
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
